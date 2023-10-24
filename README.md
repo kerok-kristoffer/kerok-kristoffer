@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kerok-kristoffer
 - 👀 I’m interested in building a portfolio for job search/freelancer
 - 🌱 I’m currently learning Blockchain and Go
-- 💞️ I’m looking to collaborate on Lightning open source development
+- 💞️ I’m looking to collaborate on open source development in the Bitcoin space
 - 📫 How to reach me kristoffer@kerok.tech
 
 <!---
